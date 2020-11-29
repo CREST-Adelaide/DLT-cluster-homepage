@@ -1,8 +1,8 @@
-url: https://127.0.0.1
-baseurl: ""
-
-# url: http://ccop.crest-centre.net
+# url: https://127.0.0.1
 # baseurl: ""
+
+url: http://dlt.crest-centre.net
+baseurl: ""
 
 # Site settings
 title: CREST DLT
