@@ -1,0 +1,20 @@
+---
+title: DLT at Edge
+subtitle: Application
+layout: default
+modal-id: 4
+date: 2014-07-15
+img: BC_edge.jpg
+thumbnail: BC_edge-thumbnail.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Evaluate the feasibility and benefits of employing blockchain at the network's edge.
+---
+
+# Team Members
+
+- Nguyen Khoi Tran
+- Andrew Walters
+- M. Ali Babar

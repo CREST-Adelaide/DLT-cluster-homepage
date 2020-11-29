@@ -1,0 +1,28 @@
+---
+title: DLT-IoT Integration
+subtitle: Application
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: BC_IoT.jpg
+thumbnail: BC_IoT-thumbnail.jpg
+alt: ccop-architecture
+project-date: April 2014
+client: Start Bootstrap
+category: CCOP Platform
+description: Study the existing integration between DLT and Internet of Things (IoT) technology to guide the future research and engineering effort. 
+---
+
+# Overview
+
+Recent years have witnessed the emergence of the Internet of Things (IoT) systems that incorporate blockchain (BC) elements in their architecture. Due to discrepancies between the requirements of IoT systems and the characteristics of BC networks, the motivations and design of these blockchain-enabled IoT systems (BC-IoT) are not only intriguing from a research perspective but also invaluable in practice. This paper presents an inductive study of the “why” and “how” of BC-IoT systems through a Systematic Literature Review of 120 peer-reviewed studies. To capture the diverse nature of BC-IoT integration, we proposed and applied a multi-perspective framework to analyse the existing systems. Regarding their motivations, we studied the improvement objectives and technical problems that drive the integration of BC. Regarding the design, we captured the position of BC within IoT systems as well as the content and processes that IoT systems offload to BC. As these dimensions are not mutually exclusive, they constitute a rich and multi-angle view of BC-IoT integration. Based on these findings, we defined 10 archetypes of BC-IoT systems that embody the core patterns of usage and configuration of BC in IoT systems.
+
+# Publication
+
+[Integrating Blockchain and Internet of Things Systems: A Systematic Review on Objectives and Designs](https://www.sciencedirect.com/science/article/pii/S1084804520303118)
+
+# Project Team
+
+- Nguyen Khoi Tran
+- Jonathan Boan
+- M. Ali Babar

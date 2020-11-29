@@ -1,0 +1,63 @@
+url: https://127.0.0.1
+baseurl: ""
+
+# url: http://ccop.crest-centre.net
+# baseurl: ""
+
+# Site settings
+title: CREST DLT
+email: nguyen.tran@adelaide.edu.au
+description: "Distributed Ledger Technology Research Cluster"
+
+
+# Team names, titles and social links
+people:
+- name: Prof. M. Ali Babar
+  pic: ali
+  position: CREST Director
+  social:
+    - title: twitter
+      url: https://twitter.com/alibabar
+
+- name: Dr. Nguyen Khoi Tran
+  pic: nguyen
+  position: Researcher - DLT Lead
+  social:
+    - title: twitter
+      url: https://twitter.com/GenTran91
+
+- name: Dr. Aufeef Chauhan
+  pic: aufeef
+  position: Researcher
+  social:
+    - title: twitter
+      url: https://twitter.com/
+
+- name: Liuyue (William) Jiang
+  pic: liuyue
+  position: PhD. Student
+  social:
+    - title: twitter
+      url: https://twitter.com/williamjiangau
+
+- name: Yongzheng (Craig) Xie
+  pic: craig
+  position: PhD. Student
+  social:
+    - title: twitter
+      url: https://twitter.com/
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/crest_uofa
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: The University of Adelaide
+  - line: Ingkarni Wardli
+  - line: Adelaide SA 5005
+
+# Build settings
+markdown: kramdown
+permalink: pretty

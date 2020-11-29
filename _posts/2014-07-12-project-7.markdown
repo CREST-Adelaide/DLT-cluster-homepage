@@ -1,0 +1,20 @@
+---
+title: AI Provenance with DLT
+subtitle: Application
+layout: default
+modal-id: 7
+date: 2014-07-15
+img: ccop_ai.jpg
+thumbnail: ccop_ai-thumbnail.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Design, develop, and demonstrate a mechanism for maintaining provenance of Machine Learning (ML) models throughout the training process and deployment process.
+---
+# Team Members
+
+- Nguyen Khoi Tran
+- Bushra Sabir (ML Advisor)
+- Mitchell Dale (Student)
+- Nini Cui (Student)
